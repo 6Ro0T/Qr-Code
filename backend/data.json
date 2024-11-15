@@ -1,0 +1,48 @@
+{
+  "registrations": [
+    {
+      "firstName": "Kishan K",
+      "lastName": "Nayak",
+      "bloodGroup": "O+",
+      "phoneNumber": "9740684686",
+      "vehicleName": "Apache RTR 200 4v",
+      "vehicleNumber": "KA 21 W 9347",
+      "emergencyContact": "9448548686",
+      "id": 1731669295132,
+      "registrationDate": "2024-11-15T11:14:55.132Z"
+    },
+    {
+      "firstName": "Ranjith",
+      "lastName": "Chandran",
+      "bloodGroup": "B+",
+      "phoneNumber": "1234567890",
+      "vehicleName": "Test",
+      "vehicleNumber": "1212121212",
+      "emergencyContact": "1234567890",
+      "id": 1731670914851,
+      "registrationDate": "2024-11-15T11:41:54.851Z"
+    },
+    {
+      "firstName": "Ranjith",
+      "lastName": "Chandran",
+      "bloodGroup": "A-",
+      "phoneNumber": "1234567890",
+      "vehicleName": "Test",
+      "vehicleNumber": "1212121212",
+      "emergencyContact": "1234567890",
+      "id": 1731671067499,
+      "registrationDate": "2024-11-15T11:44:27.499Z"
+    },
+    {
+      "firstName": "Ranjith",
+      "lastName": "Chandran",
+      "bloodGroup": "B+",
+      "phoneNumber": "1234567890",
+      "vehicleName": "Test",
+      "vehicleNumber": "1212121212",
+      "emergencyContact": "1234567890",
+      "id": 1731671703115,
+      "registrationDate": "2024-11-15T11:55:03.115Z"
+    }
+  ]
+}
